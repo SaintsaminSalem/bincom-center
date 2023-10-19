@@ -2,7 +2,7 @@ import re
 import psycopg2
 import random
 
-# Sample dress colors from the web page (replace with actual data)
+# Dress colors from the web page 
 dress_colors = [
     "red", "green", "pink", "brown", "blue", "yellow", "green", "orange", "cream", "white", "arsh"
 ]
